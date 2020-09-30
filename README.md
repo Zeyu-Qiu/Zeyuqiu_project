@@ -1,1 +1,1 @@
-# Zeyuqiu_project
+The codings shown here about MAML and Reptile to conduct NER tasks. The underlying models are HuggingFace models (bert-base-cased, distilbert-base-cased, bert-base-multilingual-cased, xlm-roberta-base). To apply these models, the transformer library should be installed firstly. maml.py is used to implement MAML. reptile.py is used to implement Reptile. Both algorithms could be run via main.py. task.py is used to generate tasks in MAML and Reptile. 
